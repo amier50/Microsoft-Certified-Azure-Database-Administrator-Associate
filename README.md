@@ -48,7 +48,7 @@ The knowledge gained can be applied to:
 
 **Exam:** DP-300 — Administering Microsoft Azure SQL Solutions
 
-**Credential verification:** [Add your Microsoft Learn credential URL here]
+**Credential verification:** https://learn.microsoft.com/api/credentials/share/en-us/MuhammadKhoirulAmierMohdZamre-9051/9C6CA527AACF7348?sharingId=897A4DCAF65C2A6D
 
 ---
 
